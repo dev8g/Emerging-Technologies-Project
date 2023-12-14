@@ -1,4 +1,4 @@
-# Activity 01
+# Activity 02
 
 ## Impact Report on Emerging Technologies and Practices for RegenTech
 
@@ -46,5 +46,5 @@ In summary, the adoption of these emerging technologies presents RegenTech with 
 + Author(s): Jiva Agriculture
 + Year of publication: 2023
 + Title of webpage: Top 13 Innovations in Agriculture & Farming
-+ Accessed site on: 13th December 2023
++ Accessed site on: 14th December 2023
 + URL: https://www.jiva.ag/blog/top-13-innovations-in-agriculture-farming#:~:text=Unmanned%20Aerial%20Vehicles%20or%20drones,desired%20locations%20on%20the%20field
